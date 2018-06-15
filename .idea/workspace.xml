@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e6c8236-ac9a-4b3a-8c7a-38cd61657cb1" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/takehome/CustomerDatasourceReaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/takehome/DistanceHelperTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IntercomTakehome.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IntercomTakehome.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntercomTakehome/com/indusxlabs/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntercomTakehome/com/indusxlabs/CustomerDatasourceReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntercomTakehome/com/indusxlabs/DistanceHelper$CustomerComparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntercomTakehome/com/indusxlabs/DistanceHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntercomTakehome/com/indusxlabs/Location.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IntercomTakehome/com/indusxlabs/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/takehome/CustomerDatasourceReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/takehome/CustomerDatasourceReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/takehome/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/takehome/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/takehome/DistanceHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/takehome/DistanceHelper.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,115 +14,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/takehome/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="23" column="86" selection-start-line="23" selection-start-column="77" selection-end-line="23" selection-end-column="86" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomerDatasourceReader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/takehome/CustomerDatasourceReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomerDatasourceReaderTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/takehome/CustomerDatasourceReaderTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Location.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/takehome/Location.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="69" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
-              <folding>
-                <element signature="e#300#301#0" expanded="true" />
-                <element signature="e#327#328#0" expanded="true" />
-                <element signature="e#367#368#0" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#434#435#0" expanded="true" />
-                <element signature="e#465#466#0" expanded="true" />
-                <element signature="e#513#514#0" expanded="true" />
-                <element signature="e#553#554#0" expanded="true" />
-                <element signature="e#589#590#0" expanded="true" />
-                <element signature="e#621#622#0" expanded="true" />
-                <element signature="e#671#672#0" expanded="true" />
-                <element signature="e#713#714#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DistanceHelper.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DistanceHelper.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/takehome/DistanceHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-183">
-              <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+            <state relative-caret-position="165">
+              <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#944#945#0" expanded="true" />
-                <element signature="e#990#991#0" expanded="true" />
-                <element signature="e#1031#1032#0" expanded="true" />
-                <element signature="e#1077#1078#0" expanded="true" />
-                <element signature="e#1398#1399#0" expanded="true" />
-                <element signature="e#1457#1458#0" expanded="true" />
-                <element signature="e#1609#1619#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DistanceHelperTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/takehome/DistanceHelperTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Customer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/takehome/Customer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-              <folding>
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#385#386#0" expanded="true" />
-                <element signature="e#425#426#0" expanded="true" />
-                <element signature="e#457#458#0" expanded="true" />
-                <element signature="e#487#488#0" expanded="true" />
-                <element signature="e#516#517#0" expanded="true" />
-                <element signature="e#557#558#0" expanded="true" />
-                <element signature="e#593#594#0" expanded="true" />
-                <element signature="e#628#629#0" expanded="true" />
-                <element signature="e#659#660#0" expanded="true" />
-                <element signature="e#707#708#0" expanded="true" />
-                <element signature="e#747#748#0" expanded="true" />
-                <element signature="e#783#784#0" expanded="true" />
-                <element signature="e#815#816#0" expanded="true" />
-                <element signature="e#865#866#0" expanded="true" />
-                <element signature="e#907#908#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -168,6 +55,7 @@
         <option value="$PROJECT_DIR$/src/com/takehome/Main.java" />
         <option value="$PROJECT_DIR$/src/com/takehome/CustomerDatasourceReaderTest.java" />
         <option value="$PROJECT_DIR$/src/com/takehome/DistanceHelperTest.java" />
+        <option value="$PROJECT_DIR$/src/com/takehome/DistanceHelper.java" />
       </list>
     </option>
   </component>
@@ -249,30 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Android JUnit.DistanceHelperTest.checkDistanceBetweenKnownPoints">
-    <configuration name="CustomerDatasourceReaderTest.createCustomersFromDataSource" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
-      <module name="IntercomTakehome" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.takehome.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.takehome" />
-      <option name="MAIN_CLASS_NAME" value="com.takehome.CustomerDatasourceReaderTest" />
-      <option name="METHOD_NAME" value="createCustomersFromDataSource" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="CustomerDatasourceReaderTest.readFromBadURL" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="IntercomTakehome" />
       <extension name="coverage">
@@ -342,6 +207,16 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.takehome.Main" />
+      <module name="IntercomTakehome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.takehome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="CustomerDatasourceReaderTest.testMultiReadFromSameSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="IntercomTakehome" />
       <extension name="coverage">
@@ -366,19 +241,19 @@
       <patterns />
     </configuration>
     <list>
-      <item itemvalue="Android JUnit.CustomerDatasourceReaderTest.createCustomersFromDataSource" />
       <item itemvalue="Android JUnit.CustomerDatasourceReaderTest.testMultiReadFromSameSource" />
       <item itemvalue="JUnit.CustomerDatasourceReaderTest.testMultiReadFromSameSource" />
       <item itemvalue="Android JUnit.CustomerDatasourceReaderTest.readFromBadURL" />
       <item itemvalue="Android JUnit.DistanceHelperTest.checkDistanceBetweenKnownPoints" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Android JUnit.DistanceHelperTest.checkDistanceBetweenKnownPoints" />
         <item itemvalue="Android JUnit.CustomerDatasourceReaderTest.readFromBadURL" />
         <item itemvalue="JUnit.CustomerDatasourceReaderTest.testMultiReadFromSameSource" />
         <item itemvalue="Android JUnit.CustomerDatasourceReaderTest.testMultiReadFromSameSource" />
-        <item itemvalue="Android JUnit.CustomerDatasourceReaderTest.createCustomersFromDataSource" />
       </list>
     </recent_temporary>
   </component>
@@ -423,6 +298,9 @@
     <history-entry file="DistanceHelperTest_checkDistanceBetweenKnownPoints - 2018.06.15 at 20h 43m 08s.xml">
       <configuration name="DistanceHelperTest.checkDistanceBetweenKnownPoints" configurationId="AndroidJUnit" />
     </history-entry>
+    <history-entry file="DistanceHelperTest_checkDistanceBetweenKnownPoints - 2018.06.15 at 20h 43m 45s.xml">
+      <configuration name="DistanceHelperTest.checkDistanceBetweenKnownPoints" configurationId="AndroidJUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="722" extended-state="6" />
@@ -436,12 +314,12 @@
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.3271605" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.3271605" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2578125" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2578125" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info id="UI Designer" order="1" />
@@ -549,13 +427,6 @@
           <caret line="38" column="56" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#944#945#0" expanded="true" />
-            <element signature="e#990#991#0" expanded="true" />
-            <element signature="e#1031#1032#0" expanded="true" />
-            <element signature="e#1077#1078#0" expanded="true" />
-            <element signature="e#1398#1399#0" expanded="true" />
-            <element signature="e#1457#1458#0" expanded="true" />
-            <element signature="e#1609#1619#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -619,13 +490,6 @@
           <caret line="36" column="40" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#944#945#0" expanded="true" />
-            <element signature="e#990#991#0" expanded="true" />
-            <element signature="e#1031#1032#0" expanded="true" />
-            <element signature="e#1077#1078#0" expanded="true" />
-            <element signature="e#1398#1399#0" expanded="true" />
-            <element signature="e#1457#1458#0" expanded="true" />
-            <element signature="e#1609#1619#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -719,13 +583,6 @@
           <caret line="38" column="56" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#944#945#0" expanded="true" />
-            <element signature="e#990#991#0" expanded="true" />
-            <element signature="e#1031#1032#0" expanded="true" />
-            <element signature="e#1077#1078#0" expanded="true" />
-            <element signature="e#1398#1399#0" expanded="true" />
-            <element signature="e#1457#1458#0" expanded="true" />
-            <element signature="e#1609#1619#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -799,13 +656,6 @@
           <caret line="35" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#944#945#0" expanded="true" />
-            <element signature="e#990#991#0" expanded="true" />
-            <element signature="e#1031#1032#0" expanded="true" />
-            <element signature="e#1077#1078#0" expanded="true" />
-            <element signature="e#1398#1399#0" expanded="true" />
-            <element signature="e#1457#1458#0" expanded="true" />
-            <element signature="e#1609#1619#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -889,13 +739,6 @@
           <caret line="38" column="56" selection-start-line="38" selection-start-column="56" selection-end-line="38" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#944#945#0" expanded="true" />
-            <element signature="e#990#991#0" expanded="true" />
-            <element signature="e#1031#1032#0" expanded="true" />
-            <element signature="e#1077#1078#0" expanded="true" />
-            <element signature="e#1398#1399#0" expanded="true" />
-            <element signature="e#1457#1458#0" expanded="true" />
-            <element signature="e#1609#1619#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -990,27 +833,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/takehome/DistanceHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-183">
-          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#944#945#0" expanded="true" />
-            <element signature="e#990#991#0" expanded="true" />
-            <element signature="e#1031#1032#0" expanded="true" />
-            <element signature="e#1077#1078#0" expanded="true" />
-            <element signature="e#1398#1399#0" expanded="true" />
-            <element signature="e#1457#1458#0" expanded="true" />
-            <element signature="e#1609#1619#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/takehome/DistanceHelperTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/takehome/DistanceHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

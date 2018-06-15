@@ -29,7 +29,7 @@ public class DistanceHelper {
     static class CustomerComparator implements Comparator<Customer>{
         @Override
         public int compare(Customer first, Customer second) {
-            return (second.userId-first.userId);
+            return (first.userId -second.userId);
         }
     }
     public static PriorityQueue<Customer> getCustomersInLocationRange(ArrayList<Customer> customers, Location location, double cutoffDistance){
